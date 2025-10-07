@@ -145,7 +145,7 @@ const AccesoriosLanding = () => {
       name: 'Baggy Chino',
       price: '$52.99',
       category: 'baggys',
-      image: getImageByName('baggy4'),
+      image: getImageByName('baggy1'),
       description: 'Pantalón baggy chino de corte relajado'
     },
     {
@@ -313,8 +313,8 @@ const AccesoriosLanding = () => {
                   { key: 'shirts', label: 'Shirts' },
                   { key: 'jackets', label: 'Jackets' },
                   { key: 'baggys', label: 'Baggys' },
-                  { key: 'quepis', label: 'Quepis' },
-                  { key: 'shoes', label: 'Shoes' }
+                  // { key: 'quepis', label: 'Quepis' },
+                  // { key: 'shoes', label: 'Shoes' }
                 ].map((category) => (
                   <button
                     key={category.key}
