@@ -1,6 +1,6 @@
 import React from 'react';
 import TopNavLanding from '../landing/components/TopNavLanding';
-import LandingPage from '../Landing/LandingPage';
+import LandingPage from '../landing/LandingPage';
 
 const LayoutApp = () => {
   return (
