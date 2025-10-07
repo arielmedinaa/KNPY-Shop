@@ -22,21 +22,21 @@
 
 @font-face {
   font-family: "EuphoriaParty";
-  src: url("/src/assets/fonts/EuphoriaParty.ttf") format("truetype");
+  src: url("/assets/fonts/EuphoriaParty.ttf") format("truetype");
   font-weight: 400;
   font-style: normal;
 }
 
 @font-face {
   font-family: "VabioxeGraffiti";
-  src: url("/src/assets/fonts/Vabioxe Graffiti.ttf") format("truetype");
+  src: url("/assets/fonts/Vabioxe Graffiti.ttf") format("truetype");
   font-weight: 700;
   font-style: normal;
 }
 
 @font-face {
   font-family: "Sprite Graffiti";
-  src: url("/src/assets/fonts/Sprite Graffiti.otf") format("truetype");
+  src: url("/assets/fonts/Sprite Graffiti.otf") format("truetype");
   font-weight: 700;
   font-style: normal;
 }
@@ -103,7 +103,7 @@ body {
   padding: 0;
   min-width: 320px;
   min-height: 100vh;
-  background-image: url("/src/landing/assets/bgLanding.webp");
+  background-image: url("/assets/bgLanding.webp");
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover;
