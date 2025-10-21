@@ -409,9 +409,9 @@ const LandingPage = () => {
             <AccesoriosLanding />
           </div>
 
-          <div className='w-full'>
-            <ToDoPage></ToDoPage>
-          </div>
+          {/* <div className='w-full'>
+            <ToDoPage />
+          </div> */}
 
           <div className="w-full">
             <ReseñasLanding />
